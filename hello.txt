@@ -1,0 +1,8 @@
+class Hello {
+
+public void fun() {
+	System.out.prinln("Fun called...");
+}
+
+
+}
